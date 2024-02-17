@@ -9,10 +9,8 @@ I'm Abigail Excelsis Deo but you can call me Deo.
 - Laravel, Node JS, and React for Web Development
 
 📫 You can connect with me on:
-- <img src="https://github.com/Excel951/Excel951/assets/90140809/ccccaef4-0fd0-46d6-a820-8e43e35f9a2d" alt="Instagram GIF" width="60px" height="auto"/>
-  [Instagram](https://www.instagram.com/abigailexcelsisdeo/): Follow my journey!
-- <<img src="https://github.com/Excel951/Excel951/assets/90140809/e44a4fad-cd78-4ff4-985c-af054c474f9e" alt="Facebook GIF" width="60px" height="auto"/>
-  [Facebook](https://www.facebook.com/excel.nforcer707/): Let's stay in touch!
+- <img src="https://github.com/Excel951/Excel951/assets/90140809/ccccaef4-0fd0-46d6-a820-8e43e35f9a2d" alt="Instagram GIF" width="60px" height="auto"/><br>[Instagram](https://www.instagram.com/abigailexcelsisdeo/): Follow my journey!
+- <<img src="https://github.com/Excel951/Excel951/assets/90140809/e44a4fad-cd78-4ff4-985c-af054c474f9e" alt="Facebook GIF" width="60px" height="auto"/><br>[Facebook](https://www.facebook.com/excel.nforcer707/): Let's stay in touch!
 
 <!--- 
 - 👀 I’m interested in ...
