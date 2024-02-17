@@ -2,7 +2,7 @@ Hello Guys 👋
 ==
 Welcome in My Github
 ==
-I'm Abigail Excelsis Deo but you can call me Deo.
+I'm **Abigail Excelsis Deo** but you can call me **Deo**.
 
 🌱 Currently, I'm delving into: 
 - Java for Application Development
