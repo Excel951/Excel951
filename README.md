@@ -11,7 +11,7 @@ I'm **Abigail Excelsis Deo** but you can call me **Deo**.
 ### Certificate: 
 - [Udemy Web Developer Certificate](https://drive.google.com/file/d/1w2f7OlW7LcC0AxeWH_5dqK6Oebo9p7v1/view?usp=sharing)
 - [Dasar AWS Cloud](https://www.dicoding.com/certificates/4EXG67MV1ZRL)
-- [Dev Certified for Machine Learning with TensorFlow] (https://dev.id/certificate/verify/J7208ODV56)
+- [Dev Certified for Machine Learning with TensorFlow](https://dev.id/certificate/verify/J7208ODV56)
 
 ### Github Statistic
 <p align="left">
@@ -22,8 +22,9 @@ I'm **Abigail Excelsis Deo** but you can call me **Deo**.
 </p>
 
 ### 📫 You can connect with me on:
-- <img src="https://github.com/Excel951/Excel951/assets/90140809/ccccaef4-0fd0-46d6-a820-8e43e35f9a2d" alt="Instagram GIF" width="60px" height="auto"/><br>[Instagram](https://www.instagram.com/abigailexcelsisdeo/): Follow my journey!
-- <img src="https://github.com/Excel951/Excel951/assets/90140809/e44a4fad-cd78-4ff4-985c-af054c474f9e" alt="Facebook GIF" width="60px" height="auto"/><br>[Facebook](https://www.facebook.com/excel.nforcer707/): Let's stay in touch!
+- [Instagram](https://www.instagram.com/abigailexcelsisdeo/): Follow my journey!
+- [Facebook](https://www.facebook.com/excel.nforcer707/): Let's stay in touch!
+- [LinkedIn](https://www.linkedin.com/in/abigail-excelsis-deo/): Let's connect!
 
 <!--- 
 - 👀 I’m interested in ...
