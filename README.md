@@ -11,6 +11,7 @@ I'm **Abigail Excelsis Deo** but you can call me **Deo**.
 ### Certificate: 
 - [Udemy Web Developer Certificate](https://drive.google.com/file/d/1w2f7OlW7LcC0AxeWH_5dqK6Oebo9p7v1/view?usp=sharing)
 - [Dasar AWS Cloud](https://www.dicoding.com/certificates/4EXG67MV1ZRL)
+- [Dev Certified for Machine Learning with TensorFlow] (https://dev.id/certificate/verify/J7208ODV56)
 
 ### Github Statistic
 <p align="left">
