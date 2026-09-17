@@ -4,9 +4,10 @@ Hello Guys 👋
 I'm **Abigail Excelsis Deo** but you can call me **Deo**.
 
 ### 🌱 Currently, I'm delving into:
-- Java for Application Development
+- Java for Application Development (in the past)
 - Laravel, Node JS, and React for Web Development
 - Machine Learning with Python and Tensorflow
+- .NET using hermes and codex anjay
 
 ### Certificate: 
 - [Udemy Web Developer Certificate](https://drive.google.com/file/d/1w2f7OlW7LcC0AxeWH_5dqK6Oebo9p7v1/view?usp=sharing)
